@@ -16,16 +16,17 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "getting-started/welcome",
+              "getting-started/logging-in",
+              "getting-started/permissions"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Entities",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "entities/types",
+              "entities/templates",
+              "entities/instances"
             ]
           },
           {
